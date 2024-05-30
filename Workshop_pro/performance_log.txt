@@ -1,0 +1,2 @@
+2024-05-28 22:23:21 - get_all_vehicles took 0.0 seconds
+2024-05-28 22:23:21 - get_all_vehicles took 20.0 Kb

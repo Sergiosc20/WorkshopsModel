@@ -1,0 +1,38 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "grants": {
+            "add_vehicle": true,
+            "remove_vehicle": true,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "user",
+        "password": "user",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "Carlos",
+        "password": "CARLOS12312",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "sad",
+        "password": "da",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    }
+]

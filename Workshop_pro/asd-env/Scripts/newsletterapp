@@ -1,0 +1,4 @@
+#!E:\workshop_pro\asd-env\Scripts\python.exe
+import newsletter.newsletterapp.newsletterapp
+
+newsletter.newsletterapp.newsletterapp.main()
